@@ -1,6 +1,7 @@
 ### regression-surrogates
 
-This repo contains the code for running ML-based surrogate models in the paper " Surrogate models based onmachine learning methods for parameter estimation of leftventricular myocardium "
+This repo contains the code for running machine learning (ML)-based surrogate models in the paper 
+" Surrogate models based onmachine learning methods for parameter estimation of leftventricular myocardium "
 
 we use  three  ML-based  surrogate  models,  namely  K-nearest  neighbour(KNN) , XGBoost and multi-layer perceptron . The three chosen ML models can be considered to be a supervised learning regression problem.  After training process,  we further  apply  the  three  ML-based  surrogate  models  for parameter estimation.
 
