@@ -1,5 +1,7 @@
 ### regression-surrogates
 
+[![DOI](https://zenodo.org/badge/310509538.svg)](https://zenodo.org/badge/latestdoi/310509538)
+
 This repo contains the code for running machine learning (ML)-based surrogate models in the paper 
 " Surrogate models based onmachine learning methods for parameter estimation of leftventricular myocardium "
 
@@ -7,7 +9,7 @@ we use  three  ML-based  surrogate  models,  namely  K-nearest  neighbour(KNN) ,
 
 ### Requirements
 
-The code requires Matlab2016, Python (3.7+) and the following dependencies: [scikit-learn](https://scikit-learn.org/stable/), [pandas](https://pandas.pydata.org/pandas-docs/stable/), [numpy](https://numpy.org/doc/), [Scipy](https://docs.scipy.org/doc/), [xgboost ](https://xgboost.readthedocs.io/en/latest/),[joblib](https://joblib.readthedocs.io/en/latest/).
+The code requires Matlab2016, Python (3.6+) and the following dependencies: [scikit-learn](https://scikit-learn.org/stable/), [pandas](https://pandas.pydata.org/pandas-docs/stable/), [numpy](https://numpy.org/doc/), [Scipy](https://docs.scipy.org/doc/), [xgboost ](https://xgboost.readthedocs.io/en/latest/),[joblib](https://joblib.readthedocs.io/en/latest/).
 
 To setup, either run,  you can download this repo and better prepare a pip environment:
 
